@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# 邓阅（2004010089）
+## 个人简介
+### 姓名：邓阅
+### 性别：男
+### 出生年月：2002年10月25日
+### 专业：会计
+### 籍贯：湖南长沙
+### 政治面貌：团员
+### 电子邮件：1439841032@qq.com
+## 技能总结
+英语四级
+## 兴趣爱好
+篮球、羽毛球、社交活动、看书
+## 教育背景
+大学大二阶段，就读于湖南工商大学
+## 主修课程
+初级会计学、中级财务会计、高级财务会计
+## 获奖情况
+无
+## 自我评价
+各门课程不挂科，考完CMA，学完CPA,大三准备考研
 
-You can use the [editor on GitHub](https://github.com/Dennis-DY/dengyue.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dennis-DY/dengyue.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
